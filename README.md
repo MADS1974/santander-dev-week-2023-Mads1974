@@ -2,8 +2,10 @@
 
 Recreating Java RESTful API criada para a Santander Dev Week by MADS1974 
 
-### [LinkedIN](https://www.linkedin.com/in/mads1974/)
+### [LinkedIN  MADS1974](https://www.linkedin.com/in/mads1974/)
 
+Este projeto foi recriado com base no projeto original do especialista Venilton FalvoJr 👋 ✨ Tech Lead na DIO e entusiasta de tecnologia e educação.
+### [Github (falvojr)](https://github.com/falvojr)
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
