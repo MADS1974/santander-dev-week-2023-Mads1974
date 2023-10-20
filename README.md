@@ -1,4 +1,4 @@
-# Santander Dev Week 2023
+# Java RESTful API Santander Dev Week 2023
 
 Recreating Java RESTful API criada para a Santander Dev Week by MADS1974 
 
